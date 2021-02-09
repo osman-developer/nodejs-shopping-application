@@ -1,6 +1,0 @@
-{
-    "env":{
-        "MONGO_ATLAS_PW":"YOUR PASSWORD to Database",
-        "JWT_KEY":"secret" //you can use your own key 
-    }
-}
