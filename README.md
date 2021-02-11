@@ -9,4 +9,4 @@ I did thsi so that I prevent hardcoding, navigate to nodemon.json and set your p
 After that you can find under the API folder two subfolders one for the routes and one for the modules. In nodemon.json you will find 
 the 'JWT KEY' (json web token key) is the key that I used to sign the JWT you can change it and set the one you want.
 You will find comments in each file and next to each line to tell you what does this do, So I assume that everything is clear and in case you didn't understand something
-please reach me out and we can discuss it, I'm open to help everyone :).
+please reach me out and we can discuss it, I'm open to help everyone:) .
