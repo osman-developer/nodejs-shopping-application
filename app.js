@@ -7,7 +7,7 @@ const orderRoutes = require('./api/routes/orders');
 const mongoose = require('mongoose');
 const userRoutes = require('./api/routes/user');
 
-mongoose.connect('connection to database' + process.env.MONGO_ATLAS_PW + 'continue of connection',
+mongoose.connect('mongodb+srv://THE NAME:' + process.env.MONGO_ATLAS_PW + 'THE NAME',
     {
         useNewUrlParser: true,
         useUnifiedTopology: true
